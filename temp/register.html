@@ -1,0 +1,70 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="{%static 'css/bootstrap.min.css'%}" rel="stylesheet" />
+  <title>Register</title>
+</head>
+<body style="background-color: #e6f2ff;">
+<div class="row postion-fixed" style="margin-top: 10px;"  > 
+  <div class="col-md-4">
+    <div class="form-group">
+      <marquee behavior="" direction="">
+        <img src="../static/img/pngegg.png" alt="img" style="width: 100px; margin-top: 20px;">
+        <img src="../static/img/pngegg1.png" alt="img" style="width: 100px; margin-top: 40px;">
+        <img src="../static/img/pngegg4.png" alt="img" style="width: 70px;">
+        <img src="../static/img/pngegg2.png" alt="img" style="width: 100px;">
+        <img src="../static/img/pngegg3.png" alt="img" style="width: 70px; margin-top: 30px;">
+      </marquee>
+    </div>
+  </div>
+  <div class="col-md-4 " >
+    <div class="form-group shadow rounded">
+      <div class="form-control ">
+        <form action="" method="post" >{% csrf_token %}
+          <div class="postion-fixed">
+            <h5 style="color: #3399ff;">Palnts Transport </h5>
+            <label for="first_name">First Name</label><input type="text" name="first_name" id="first_name" class="form-control postion-fixed">
+            <label for="last_name">Last Name</label><input type="text" name="last_name" id="last_name" class="form-control postion-fixed">
+            <label for="mobile">Mobile</label><input type="text" name="mobile" id="mobile" class="form-control postion-fixed">
+            <label for="email">Email</label><input type="email" name="email" id="email" class="form-control postion-fixed">
+            <input type="submit" value="Sumbit" class="btn btn-primary rounded" style="margin-top: 10px; ">
+          </div>
+          </form>
+    </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="form-group">
+      <marquee behavior="" direction="">
+        <img src="../static/img/pngegg3.png" alt="img" style="width: 70px; margin-top: 30px;">
+        <img src="../static/img/pngegg2.png" alt="img" style="width: 100px;">
+        <img src="../static/img/pngegg1.png" alt="img" style="width: 100px; margin-top: 40px;">
+        <img src="../static/img/pngegg.png" alt="img" style="width: 100px; margin-top: 20px;">
+        <img src="../static/img/pngegg4.png" alt="img" style="width: 70px;">
+        </marquee>
+    </div>
+  </div>
+</div>
+
+  <div class="row border-bottom" style="margin-top:10px ;">
+    <div class="col-md-4">
+
+    </div>
+    <div class="col-md-4">
+      <div class="">
+        <a behavior="" direction="" style="height: 200px;">
+        <img class="shadow p-3 mb-5  rounded" src="../static/img/pngegg4.png" alt="img" style="width: 100px; height:180px;">
+        <img  class="shadow p-3 mb-5 rounded" src="../static/img/pngegg2.png" alt="img" style="width: 100px; margin-left: 10px; height:180px;">
+        <img class="shadow p-3 mb-5 rounded" src="../static/img/pngegg3.png" alt="img" style="width: 100px; margin-left: 10px; height:180px;">
+        <img class="shadow p-3 mb-5 rounded" src="../static/img/pngegg1.png" alt="img" style="width: 100px; margin-left: 10px; height:180px;">
+      </a>
+    </div>
+      
+    </div>
+  </div>
+</body>
+</html>
