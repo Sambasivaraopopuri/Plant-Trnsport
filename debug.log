@@ -1575,3 +1575,53 @@ INFO Watching for file changes with StatReloader
 WARNING Not Found: /favicon.ico
 WARNING "GET /favicon.ico HTTP/1.1" 404 2923
 WARNING "GET /static/img/favicon.ico HTTP/1.1" 404 1804
+INFO "GET /view HTTP/1.1" 200 4408
+INFO "GET /static/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 327261
+INFO "GET /static/css/bootstrap.min.css.map HTTP/1.1" 200 449111
+INFO "GET /home HTTP/1.1" 200 13596
+INFO "GET /static/img/pngegg4.png HTTP/1.1" 304 0
+INFO "GET /static/img/pngegg2.png HTTP/1.1" 304 0
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2872
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 2923
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2872
+INFO "GET /user_register HTTP/1.1" 200 3453
+INFO "GET /static/img/pngegg1.png HTTP/1.1" 304 0
+INFO "GET /static/img/pngegg.png HTTP/1.1" 304 0
+INFO "GET /static/img/pngegg2.png HTTP/1.1" 304 0
+INFO "GET /static/img/pngegg4.png HTTP/1.1" 304 0
+INFO "GET /static/img/pngegg3.png HTTP/1.1" 304 0
+INFO "GET /login HTTP/1.1" 200 1026
+INFO "GET /view HTTP/1.1" 200 4408
+INFO "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 304 0
+INFO "GET /home HTTP/1.1" 200 13596
+INFO "GET /home HTTP/1.1" 200 13596
+INFO "GET /home HTTP/1.1" 200 13596
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2872
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 2923
+INFO "GET /home HTTP/1.1" 200 13596
+INFO "GET /static/img/pngegg2.png HTTP/1.1" 200 1506364
+INFO "GET /static/js/bootstrap.bundle.min.js HTTP/1.1" 200 78468
+INFO "GET /static/img/pngegg4.png HTTP/1.1" 200 6946021
+INFO "GET /login HTTP/1.1" 200 1026
+WARNING Not Found: /register
+WARNING "GET /register HTTP/1.1" 404 2914
+INFO "GET /user_register HTTP/1.1" 200 3453
+INFO "GET /static/img/pngegg.png HTTP/1.1" 200 395595
+INFO "GET /static/img/pngegg1.png HTTP/1.1" 200 381695
+INFO "GET /static/img/pngegg3.png HTTP/1.1" 200 862685
+INFO Watching for file changes with StatReloader
+INFO E:\My New Projects\plant_Transport\master\urls.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO "GET / HTTP/1.1" 200 3453

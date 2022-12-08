@@ -16,7 +16,7 @@ urlpatterns = [
     # path('test/<int:id>',Test_api.as_view())
     # path("person",Master.persson)
     # Web_pages
-    path("user_register",Master.user_register,name="master_register"),
+    path("",Master.user_register,name="master_register"),
     path("login",Master.login,name="login"),
     path("home",Master.home,name="home"),
     path("view",Master.view,name="view"),
