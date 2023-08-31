@@ -1636,3 +1636,80 @@ INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py chang
 INFO Watching for file changes with StatReloader
 INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\plant_Transport\settings.py changed, reloading.
 INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\plant_Transport\settings.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\plant_Transport\settings.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO Watching for file changes with StatReloader
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2194
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 2245
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\plant_Transport\urls.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\urls.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\urls.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\urls.py changed, reloading.
+INFO Watching for file changes with StatReloader
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2368
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\urls.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO "GET / HTTP/1.1" 200 1026
+INFO "GET /static/css/bootstrap.min.css HTTP/1.1" 200 162726
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO "GET / HTTP/1.1" 200 3453
+INFO "GET /static/img/pngegg.png HTTP/1.1" 200 395595
+INFO "GET /static/img/pngegg1.png HTTP/1.1" 200 381695
+INFO "GET /static/img/pngegg2.png HTTP/1.1" 200 1506364
+INFO "GET /static/img/pngegg3.png HTTP/1.1" 200 862685
+INFO "GET /static/img/pngegg4.png HTTP/1.1" 200 6946021
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\bharg\OneDrive\Desktop\Siva\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bharg\OneDrive\Desktop\Siva\env\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bharg\OneDrive\Desktop\Siva\env\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+ERROR "POST / HTTP/1.1" 500 66012
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO "POST / HTTP/1.1" 200 4
+INFO "GET / HTTP/1.1" 200 3453
+INFO "POST / HTTP/1.1" 200 4
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO "GET / HTTP/1.1" 200 3453
+INFO "POST / HTTP/1.1" 200 4
+INFO "GET / HTTP/1.1" 200 3453
+INFO "GET / HTTP/1.1" 200 3453
+INFO "POST / HTTP/1.1" 200 4
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\views.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\models.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\models.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\models.py changed, reloading.
+INFO Watching for file changes with StatReloader
+INFO C:\Users\bharg\OneDrive\Desktop\Siva\Plant-Trnsport\customer\models.py changed, reloading.
+INFO Watching for file changes with StatReloader
