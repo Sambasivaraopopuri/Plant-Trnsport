@@ -80,17 +80,27 @@ WSGI_APPLICATION = 'plant_Transport.wsgi.application'
 #         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
 # }
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql', 
+#         'NAME': 'PlantTransport',
+#         'USER': 'Siva',
+#         'PASSWORD': 'Siva01@',
+#         'HOST': '34.16.195.130',   # Or an IP Address that your DB is hosted on
+#         'PORT': '3306',
+#     }
+# }
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql', 
-        'NAME': 'Plant_transport',
-        'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
-        'PORT': '3306',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'PlantTransport',
+#       'USER': 'Siva',
+#       'PASSWORD': 'Siva01@',
+#       'HOST': '34.16.195.130',
+        'PORT': '5432'
     }
 }
-
+.
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
 
